@@ -21,21 +21,11 @@ I have utilized Kafka as a message broker in various projects, enabling real-tim
 ### Rust: 
 I am currently exploring Rust as a systems programming language. I find its performance, safety guarantees, and memory management capabilities fascinating and have started to develop small projects using Rust.
 
-## Projects
-Here are some of the noteworthy projects you'll find in my repositories:
+### Cloud Native
+I have experience in developing cloud-native components like custom controllers for Kubernetes.
 
-#### Project Name: 
-Brief description of the project, highlighting the technologies used and its purpose.
-
-#### Project Name: 
-Brief description of the project, highlighting the technologies used and its purpose.
-
-#### Project Name: 
-Brief description of the project, highlighting the technologies used and its purpose.
-
-Feel free to explore each project's repository for more details, documentation, and code samples.
 
 ## Get in Touch
-I'm always open to collaborating on interesting projects or discussing new ideas. If you'd like to get in touch with me, you can reach me via email at your-email@example.com or connect with me on LinkedIn.
+I'm always open to collaborating on interesting projects or discussing new ideas. If you'd like to get in touch with me, you can reach me via email.
 
 Thank you for visiting my GitHub profile, and I hope you find my projects valuable and informative!
